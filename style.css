@@ -1,0 +1,71 @@
+.header{
+    width: 250px;
+}
+
+.body{
+    background-color: #fff5e8;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+.container{
+    width: 80%;
+    text-align: center;
+    text-align: justify;
+}
+#buso{
+    display: block;
+    float: left;
+    padding: 5px;
+    margin: 5px, 15px, 5px, 15px;
+    width: 15em;
+    border: solid #ffebd0;
+}
+#jankele{
+    display: block;
+    float: right;
+    padding: 5px;
+    margin: 5px, 15px, 5px, 15px;
+    width: 15em;
+    border: solid #ffebd0;
+}
+p{
+    text-indent: 20px;
+    color: #522f00;
+}
+h1{
+    color: #b16400;
+}
+h2{
+    color: #b16400;
+}
+.buso{
+    background-color: white;
+    margin: 5px, 15px, 5px, 15px;
+}
+
+ul{
+    list-style-image: url(jel.png);
+
+}
+li{
+    margin-bottom: 25px;
+    color: #b16400;
+}
+footer{
+   border: #0e0e0e;
+    height: 60px;
+    background-color: #ffebd0;
+    margin-top: 20px;
+    font-size: 0,8em;
+    
+}
+
+.a{
+    text-align: left;
+}
+
+
+#buso_logo{
+    float: right;
+    height: 55px;
+}
