@@ -1,16 +1,13 @@
 .header{
-    width: 250px;
+    height: 250px;
 }
 
-.body{
-    background-color: #fff5e8;
-    font-family: Arial, sans-serif;
-    text-align: justify;
-}
 .container{
     width: 80%;
     text-align: center;
     text-align: justify;
+    background-color: #fff5e8;
+    font-family: Arial, sans-serif;
 }
 #buso{
     display: block;
@@ -49,23 +46,21 @@ ul{
 }
 li{
     margin-bottom: 25px;
-    color: #b16400;
+
 }
-footer{
-   border: #0e0e0e;
+
+.footer{
     height: 60px;
-    background-color: #ffebd0;
+    clead:both;
     margin-top: 20px;
-    font-size: 0,8em;
-    
+font-size: 0,8em;
 }
 
-.a{
-    text-align: left;
-}
-
-
-#buso_logo{
+#logo{
     float: right;
     height: 55px;
+}
+
+a{
+text-align: initial;
 }
